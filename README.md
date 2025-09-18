@@ -1,7 +1,11 @@
-# 👋 Hi, I'm Cristian Alexis Román Santiago  
+![alexissantiago](https://github.com/user-attachments/assets/3806d51e-dcb1-4c60-8622-2e617d8f92ea)# 👋 Hi, I'm Cristian Alexis Román Santiago  
 
 💻 **Quality Assurance Engineer** | 3+ years of experience in Software Testing (Functional & Automation)  
 🌍 Based in Monterrey, MX  
+
+![Uploading<?xml version="1.0" encoding="utf-8"?><Error><Code>AuthenticationFailed</Code><Message>Server failed to authenticate the request. Make sure the value of Authorization header is formed correctly including the signature.
+RequestId:f44425b8-c01e-0094-2466-2882c8000000
+Time:2025-09-18T06:35:44.3409279Z</Message><AuthenticationErrorDetail>Signed expiry time [Thu, 18 Sep 2025 06:17:53 GMT] must be after signed start time [Thu, 18 Sep 2025 06:35:44 GMT]</AuthenticationErrorDetail></Error> alexissantiago.png…]()
 
 ---
 
