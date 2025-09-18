@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="./alexissantiago.png" alt="Alexis Santiago QA Engineer Banner" width="1000"/>
+  <img src="https://raw.githubusercontent.com/mralexis99r/mralexis99r/main/alexissantiago.png" 
+       alt="Alexis Santiago QA Engineer Banner" width="1000"/>
 </p>
+
 
 
 # 👋 Hi, I'm Cristian Alexis Román Santiago  
