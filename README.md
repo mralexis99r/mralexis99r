@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/mralexis99r/mralexis99r/blob/main/alexissantiago.png" alt="QA Engineer Banner" />
+  <img src="./alexissantiago.png" alt="Alexis Santiago QA Engineer Banner" width="1000"/>
 </p>
 
 
